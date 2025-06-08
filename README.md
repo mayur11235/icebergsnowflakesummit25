@@ -1,6 +1,6 @@
 # Apache Iceberg X Snowflake Summit 25
 
-At this year’s Snowflake Summit, my primary focus was on all things Apache Iceberg. I attended multiple sessions led by Snowflake, Netflix, Capital One, Qlik, T-Mobile and others diving deep into how Iceberg is rapidly becoming the default standard for modern analytics. In this article, I’m sharing key takeaways from each session — highlighting how these companies are using Iceberg to enable better data interoperability, improve governance and scale data engineering across different environments.
+At this year’s Snowflake Summit, my primary focus was on all things Apache Iceberg. I attended multiple sessions led by Snowflake, Netflix, Capital One, Qlik, T-Mobile and others diving deep into how Iceberg is rapidly becoming the default standard for modern analytics. In this article, I’m sharing key takeaways from each session — highlighting how these companies are using Iceberg to enable better data interoperability, improve governance and scale data engineering across different platforms.
 
 
 ## Session 1: Connect Teams with Iceberg tables using Snowflake
