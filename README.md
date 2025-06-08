@@ -271,7 +271,7 @@ When Iceberg tables are linked to Snowflake, you can automate key maintenance ta
 The Apache Iceberg v3 specification introduces support for **VARIANT (semi-structured)** and **Geospatial types**. Snowflake enhances your ability to work with complex data types within your Iceberg ecosystem through a feature called Variant Shredding. This process automatically extracts individual fields from a semi-structured VARIANT column and stores them as distinct, independent columns. This makes querying and analyzing JSON-like data faster and more efficient.
 
 
-# Other Companies Using Apache Iceberg and Snowflake at the Summit
+# Other Companies Using Apache Iceberg and Snowflake at Summit 25
 
 ### PayPal
 PayPal modernized its analytics and data infrastructure by consolidating disparate data sources into Snowflake and adopting Apache Iceberg for platform flexibility and future-proofing. Iceberg enabled sharing Snowflake-generated data across multiple clouds without traditional ETL, using Snowflake-managed Iceberg catalogs, replication, and dynamic tables. This centralized back-office analytics, streamlined ETL, and supported near real-time insights and reconciliation. PayPal is also exploring ML for business outcome prediction and generative AI for dynamic network adaptation.
